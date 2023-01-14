@@ -12,6 +12,7 @@ This project is submitted as part of assessed coursework.
 
 ## Files
 - `final.R` contains all R code used in the regression analysis.
-- `report.tex` is the written report for the analysis.
+- `report.pdf` is the written report for the analysis.
+- `report.tex` contains the Latex code for `report.pdf`.
 - `\figures` folder contains all figures for `report.tex`.
 - `dvsa1203.csv` is the dataset analysed. Originally sourced from *GOV.UK*: https://www.gov.uk/government/statistical-data-sets/car-driving-test-data-by-test-centre.
